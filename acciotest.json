@@ -1,0 +1,4 @@
+{
+    "testRepo": "Localstorage-Solution",
+    "pathToFile": "cypress/integration/tests/test.spec.js"
+}
